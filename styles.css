@@ -1,0 +1,18 @@
+#pictures{
+    width: 500px;
+}
+ body{
+    background-color: #FFABAB;
+ }
+  #conteiner{
+    display: flex;
+    justify-content: center;
+  }
+   
+  .btn{
+    background-color: #B2A4FF;
+    border: none;
+    color: black;
+    font-size: 30px;
+    font-family: 'Sedgwick Ave Display', cursive;
+  }
